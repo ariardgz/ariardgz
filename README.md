@@ -5,7 +5,7 @@
   askMeAbout: ["web dev", "tech", "app dev", "math","science"]
   },
   architecture: ["Progressive web applications", "Single page applications"],
-  funFact: "I love videogames"
+  funFact: "I love videogames", "Swiftie <3"
   challenge: "I am doing the #100DaysOfCode challenge focused in Javascript and React"
 };
 ```
