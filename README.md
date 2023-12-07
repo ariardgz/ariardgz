@@ -6,7 +6,9 @@
   },
   architecture: ["Progressive web applications", "Single page applications"],
   funFact: "I love videogames", "Swiftie <3"
-  challenge: "I am doing the #100DaysOfCode challenge focused in Javascript and React"
+  challenge: "Advent JS: Gifts and challenges from christmas programming"
+  softSkills: ["Communication", "Teamwork", "Problem solving", ""Adaptability]
+
 };
 ```
 
