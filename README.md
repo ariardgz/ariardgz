@@ -1,7 +1,7 @@
 ### Hello!🐥
 ```const ariardgz = {
   currentFocus: "Front end Developer",
-  code: ["Javascript", "HTML", "CSS"],
+  code: ["Javascript", "HTML", "CSS", "Python", "Java"],
   askMeAbout: ["web dev", "tech", "app dev", "math","science"]
   },
   architecture: ["Progressive web applications", "Single page applications"],
