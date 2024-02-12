@@ -1,6 +1,6 @@
 ### Hello!🐥
 ```const ariardgz = {
-  currentFocus: "Front end Developer",
+  currentFocus: "Web Developer",
   code: ["Javascript", "HTML", "CSS", "Python", "Java"],
   askMeAbout: ["web dev", "tech", "app dev", "math","science"]
   },
